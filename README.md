@@ -20,3 +20,4 @@ This project was inspired by the Bikeshare project from the Udacity Data Analyst
 
 ## Update times
 - August 28, 2024
+- August 29, 2024
